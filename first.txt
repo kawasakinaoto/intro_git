@@ -3,4 +3,4 @@ Gitを練習していきます
 
 gig add
 git commit
-git
+git　rm
