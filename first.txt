@@ -4,3 +4,4 @@ Gitを練習していきます
 gig add
 git commit
 git　rm
+git status
